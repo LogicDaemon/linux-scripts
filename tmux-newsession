@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tmux -2u new-session -As "$USER"
